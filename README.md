@@ -13,10 +13,6 @@
 - 🎓 Pursuing **BCA in Artificial Intelligence and Data Science** at Graphic Era Hill University, Haldwani (CGPA: **9.01/10.0**), 2024–2027
 - 🔬 Currently a **Scientific Research Intern** at the Technology Business Incubator (TBI), Graphic Era Hill University — selected for the Summer Internship Program 2026
 - 🛠️ I love building full-stack apps, SaaS tools, and AI-powered products
-- ☁️ **AWS Certified Cloud Practitioner** (2025)
-- 🐍 Kaggle **Python Coder** Badge holder
-- 🧑‍💻 Tech Club member & organizer — ran college/national-level hackathons and workshops
-- 📍 Based in Sitarganj, India
 
 ---
 
