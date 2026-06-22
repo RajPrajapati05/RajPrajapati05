@@ -81,7 +81,6 @@
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -100,5 +99,9 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RajPrajapati05/RajPrajapati05/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajPrajapati05/RajPrajapati05/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajPrajapati05/RajPrajapati05/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/RajPrajapati05/RajPrajapati05/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
