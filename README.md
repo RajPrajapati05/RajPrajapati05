@@ -81,38 +81,6 @@
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
----
-
-### 📌 Featured Projects
-
-**🔐 [KeySentry – API Key Leak Scanner](#)** &nbsp;·&nbsp; [Live Demo](#) &nbsp;|&nbsp; [GitHub](#)
-`Node.js` `Express` `React` `Redis` `MongoDB`
-- Real-time SaaS security tool that monitors GitHub/GitLab repos via webhooks and detects 10+ leaked secret types (AWS, Stripe, OpenAI, GitHub tokens) using regex + Shannon entropy scoring to cut false positives
-- Async job processing with Redis (Upstash) + BullMQ, handling 1000+ commits/minute
-- Multi-channel alerts (Slack, email, WhatsApp) with severity scoring, delivered within 5 seconds
-- React dashboard with scan history, repo management, and a real-time alert feed; GitHub OAuth login
-
-**✈️ [TravelLust – Full-Stack AI-Powered Travel Platform](#)** &nbsp;·&nbsp; [Live Demo](#) &nbsp;|&nbsp; [GitHub](#)
-`Node.js` `Express` `MongoDB` `EJS` `Groq AI` `PassportJS` `Cloudinary` `MapTiler`
-- Airbnb-inspired platform with CRUD listings, Cloudinary uploads, PassportJS auth, owner-based authorization, Joi validation, and automated emails
-- Integrated Groq AI (Llama 3.3 70B) for an AI chatbot + trip planner generating day-by-day itineraries with budget breakdowns
-- MapTiler geocoding for interactive maps; booking system with date selection & price calculation
-- Host dashboard with earnings analytics, smart search, category filters, dark mode UI
-
-**🤝 [Collaboration Hub – Team Productivity Platform](#)** &nbsp;·&nbsp; [GitHub](#)
-`Node.js` `Express` `JavaScript` `MongoDB`
-- Team collaboration platform with task management, shared workspaces, and project-level discussions
-- Full CRUD REST endpoints; MongoDB schema for users, projects, and tasks
-- JWT authentication with role-based access control (Admin/Member)
-
----
-
-### 🏅 Certifications & Achievements
-
-- **AWS Certified Cloud Practitioner** (2025)
-- **JP Morgan Software Engineering Job Simulation** — Forage (Oct 2025): Kafka integration, H2 database, REST API design
-- **Kaggle Python Coder** Badge
-- Tech Club Member & Organizer — college & national-level hackathons, workshops
 
 ---
 
@@ -125,4 +93,12 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajPrajapati05&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RajPrajapati05/RajPrajapati05/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
