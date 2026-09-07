@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Raj Prajapati 👋</h1>
 
-<h3 align="center">BCA (AI & Data Science) Student | Full-Stack Developer | Building real-world SaaS & AI tools</h3>
+<h3 align="center">BCA (AI & Data Science) Student | Full-Stack Developer
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RajPrajapati05&color=blueviolet&style=for-the-badge" alt="Profile views"/>
